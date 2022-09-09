@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ilan, a graduate student at the University of Toronto studying artificial intelligence and computer science. 
+
+I love working on challenging problems, in various areas such as machine learning and distributed systems. 
+
+I enjoy contributing to open source projects, collaborating with others and always looking for more opportunities. Previously, I contributed to the [Cortex](https://github.com/cortexproject) and [ACK](https://github.com/aws-controllers-k8s/prometheusservice-controller) open source projects. 
+
 <!--
 **ilangofman/ilangofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
